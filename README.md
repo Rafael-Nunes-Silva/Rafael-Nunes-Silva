@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://komarev.com/ghpvc/?username=Rafael-Nunes-Silva&color=green" alt="Rafael-Nunes-Silva" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Rafael-Nunes-Silva&color=green" alt="Rafael-Nunes-Silva" /> -->
+
+<a href="https://github.com/Rafael-Nunes-Silva/Rafael-Nunes-Silva">
+  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Nunes-Silva" />
+</a>
