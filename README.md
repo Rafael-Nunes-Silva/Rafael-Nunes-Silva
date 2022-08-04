@@ -1,25 +1,12 @@
-<!-- ### Hi there 👋
-
-**Rafael-Nunes-Silva/Rafael-Nunes-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
   <a href="https://github.com/Rafael-Nunes-Silva">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Nunes-Silva&show_icons=true&include_all_commits=true&count_private=true&title_color=00ff00&text_color=ffffff&icon_color=0000ff&border_color=0000ff&bg_color=151515"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Nunes-Silva&langs_count=10&title_color=00ff00&text_color=ffffff&icon_color=0000ff&border_color=0000ff&bg_color=151515"/>
 </div>
+<!--
 <div style="display: inline-block">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg"/>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg"/>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg"/>
 </div>
+-->
