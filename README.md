@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=2500&pause=1000&color=00EE00&background=151515&center=true&vCenter=true&repeat=false&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+github!" alt="Typing SVG"></a>
+  <h1>Olá, bem-vindo ao meu github!</h1>
 </div>
 
 <!--<details>
