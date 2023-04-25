@@ -24,6 +24,7 @@
 </div>
 
 <div align="center">
+  <h2>Linguagens</h2>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
@@ -32,4 +33,22 @@
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+</div>
+
+<div align="center">
+  <h2>Tecnologias</h2>
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+  
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
 </div>
