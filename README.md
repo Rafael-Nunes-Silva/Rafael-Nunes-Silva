@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <h2>Dê uma olhada no meu <a href="https://portfolio-pessoal-rafael-nunes-silva.vercel.app">portfolio</a>.</h1>
+</div>
+
+<div align="center">
   <a href="https://github.com/Rafael-Nunes-Silva"></a>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rafael-Nunes-Silva&show_icons=true&include_all_commits=true&count_private=true&title_color=00EE00&text_color=EEEEEE&icon_color=0000EE&border_color=151515&bg_color=151515">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Nunes-Silva&layout=compact&langs_count=20&title_color=00EE00&text_color=EEEEEE&icon_color=0000EE&border_color=151515&bg_color=151515">
