@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Dê uma olhada no meu <a href="https://portfolio-pessoal-rafael-nunes-silva.vercel.app">portfolio</a>.</h1>
+  <h2>Dê uma olhada no meu <a target="_blank" href="https://portfolio-pessoal-rafael-nunes-silva.vercel.app">portfolio</a>.</h1>
 </div>
 
 <div align="center">
