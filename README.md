@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Dê uma olhada no meu <a target="_blank" href="https://portfolio-pessoal-rafael-nunes-silva.vercel.app">portfolio</a>.</h1>
+  <h2>Dê uma olhada em meu <a target="_blank" href="https://portfolio-pessoal-rafael-nunes-silva.vercel.app">portfolio</a> e <a href="https://drive.google.com/uc?export=download&id=12TbZwxF8u4wlsohs1kDf4cI7mJh1X3PE">currículo<a/>.</h1>
 </div>
 
 <div align="center">
