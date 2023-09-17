@@ -15,70 +15,32 @@
 </div>
 
 <div align="center">
-<details>
-  <summary><h2>Linguagens</h2></summary>
-  <h3>Frontend</h3>
+  <h2>Linguagens</h2>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <h3>Backend</h3>
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-</details>
 </div>
 
 <div align="center">
-  <details>
-    <summary><h2>Tecnologias</h2></summary>
-    <hr>
-    <details>
-      <summary><h3>Versionamento</h3></summary>
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-    </details>
-    <hr>
-    <details>
-      <summary><h3>IDEs</h3></summary>
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    </details>
-    <hr>
-    <details>
-      <summary><h3>Organização</h3></summary>
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
-    </details>
-    <hr>
-    <details>
-      <summary><h3>Frameworks</h3></summary>
-      <h4>Frontend</h4>
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-      <h4>Backend</h4>
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-    </details>
-    <hr>
-    <details>
-      <summary><h3>Python libs</h3></summary>
-      <h4>Frontend</h4>
-        <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-        <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-      <h4>Backend</h4>
-        <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-    </details>
-    <hr>
-    <details>
-      <summary><h3>Banco de dados</h3></summary>
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-    </details>
-    <hr>
-    <details>
-      <summary><h3>Graphics APIs</h3></summary>
-      <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
-      <img align="center" width="50em" src="https://github.com/Rafael-Nunes-Silva/Rafael-Nunes-Silva/assets/76886825/4752bf0a-654c-4bfe-8409-7ecf360b0915">
-    </details>
-  </details>
+  <h2>Ferramentas</h2>
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" width="50em" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg">
+  <img align="center" width="50em" src="https://github.com/Rafael-Nunes-Silva/Rafael-Nunes-Silva/assets/76886825/4752bf0a-654c-4bfe-8409-7ecf360b0915">
 </div>
